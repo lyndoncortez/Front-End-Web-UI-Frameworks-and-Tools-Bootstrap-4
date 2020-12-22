@@ -38,3 +38,7 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.btn-social-icon {
+    margin: 2px;
+}

@@ -14,8 +14,11 @@
     "lite-server": "^2.3.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
     "@popperjs/core": "^2.5.4",
     "bootstrap": "^4.5.3",
+    "bootstrap-icons": "^1.2.1",
+    "bootstrap-social": "^5.1.1",
     "jquery": "^3.5.1"
   }
 }
